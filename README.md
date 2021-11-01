@@ -1,0 +1,2 @@
+# DSA-Preparation
+Hello! This is a repository created for full DSA preparation. It will contain code in C++ and JAVA language . DSA programs will be added regularly in their specific folders. If you have any program which is not already included in this repository then do contribute by sending a pull request, it will be accepted within 24 hours if your code follows all the rules and guidelines. Try to add your work in specific folders. Thank you ! 
