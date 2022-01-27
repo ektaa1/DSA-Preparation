@@ -7,5 +7,5 @@ int main(){
     //Now checking it by formula, n=n*(2^i), putting our decimal values, we will get n as 20.
     int n,i;
     cin>>n>>i;
-    cout<<"After doing binary left shift, we get"<< (n<<i) <<endl;
+    cout<<"After doing binary left shift, we get "<< (n<<i) <<endl;
 }
